@@ -1,9 +1,7 @@
 #include <stdio.h>
-#include <windows.h>
 
-int main()  {
-    printf("Hello, SNOWING Server!\n");
-    system("pause");
+int main() {
+    printf("SNOWING\n");
 
     return 0;
 }
