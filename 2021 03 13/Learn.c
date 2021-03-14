@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("SNOWING\n");
+    printf("선넘네\n");
 
     return 0;
 }
